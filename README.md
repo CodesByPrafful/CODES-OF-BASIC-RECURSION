@@ -29,11 +29,11 @@ This repository contains essential recursion-based programs implemented in Java.
 🚀 How to Run the Programs
 1. Clone this repository using:
 
-git clone https://github.com/CodesByPrafful/CODES OF BASIC RECURSION.git
+git clone https://github.com/CodesByPrafful/CODES-OF-BASIC-RECURSION.git
 
 2. Navigate to the repository folder:
 
-cd CODES OF BASIC RECURSION
+cd CODES-OF-BASIC-RECURSION
 
 3. Compile and run the desired program (modify as per language used):
 
