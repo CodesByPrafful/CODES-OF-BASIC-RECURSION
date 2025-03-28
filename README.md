@@ -1,4 +1,4 @@
-Recursion Programs Repository:
+CODES OF BASIC RECURSION Repository:
 
 📌 Overview:
 This repository contains essential recursion-based programs implemented in Java. These programs demonstrate various recursive techniques, including mathematical computations, searching, and array operations. The repository is useful for students and developers looking to strengthen their understanding of recursion.
@@ -48,11 +48,14 @@ java ProgramName
 3. Solving searching and array-based problems using recursion.
 
 🤝 Contributing:
+
 To make any changes to this repository, please send an email to the provided email ID for approval.
 Email:praffulshikhar53@gmail.com
 
 📜 License:
+
 This repository is open-source and available under the MIT License.
 
 📌 Author: CodesByPrafful
+
 🔗 GitHub: https://github.com/CodesByPrafful
